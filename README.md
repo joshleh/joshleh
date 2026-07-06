@@ -4,4 +4,4 @@
 - 📚 Currently taking Machine Learning for Data Science (DSCI 552) @ USC (online)
 - 🧑‍💻 Learning C/C++, Go, and Rust at the moment
 - 📑 You can find my personal website [here](https://joshleh.github.io/)
-- Open to machine learning/AI full-time roles that are either remote or in-person/hybrid in/near the Irvine, California area (feel free to contact me [here](mailto:joshdmleh@gmail.com))
+- 👋🏼 Open to machine learning/AI full-time roles that are either remote or in-person/hybrid in/near the Irvine, California area (feel free to contact me [here](mailto:joshdmleh@gmail.com))
